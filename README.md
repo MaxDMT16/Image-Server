@@ -1,0 +1,1 @@
+<b> Circle CI: </b>[![CircleCI](https://circleci.com/gh/MaxDMT16/Image-Server.svg?style=svg)](https://circleci.com/gh/MaxDMT16/Image-Server)
