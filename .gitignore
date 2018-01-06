@@ -1,0 +1,15 @@
+*.user
+*.vspscc
+*.suo
+*.bak
+[Bb]in
+[Dd]ebug*/
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+package/
+artifacts/
+.vs
+.vscode
+packages
